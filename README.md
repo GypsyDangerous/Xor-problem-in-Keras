@@ -1,5 +1,5 @@
-# Xor-problem-in-Keras
-solving the xor problem in python with keras
+# Xor in Keras
+solving the xor problem in python with keras with animation
 
 ## Example
-![Alt Text](https://github.com/GypsyDangerous/Xor-problem-in-Keras/blob/master/outputs/xor.gif)
+![Xor Animation](https://github.com/GypsyDangerous/Xor-problem-in-Keras/blob/master/outputs/xor.gif)
